@@ -19,4 +19,3 @@ for ($i = 1; $i < $range; $i++) {
         echo "\n";
     }
 }
-
